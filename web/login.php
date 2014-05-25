@@ -7,12 +7,3 @@ $messageError = $session->get('messageError');
 $session->remove('messageError');
 
 require '../src/Views/login.phtml';
-
-
-
-
-
-
-
-
-
